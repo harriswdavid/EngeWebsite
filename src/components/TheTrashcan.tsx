@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function TheTrashcan() {
   return (
     <div className="trash-title" id="Trash-Title">

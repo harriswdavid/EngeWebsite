@@ -1,6 +1,3 @@
-import React from "react";
-import { useRef } from "react";
-
 export default function NavBar() {
   return (
     <div className="navbar-buttons">

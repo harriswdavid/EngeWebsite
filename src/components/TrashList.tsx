@@ -1,5 +1,3 @@
-import React from "react";
-
 interface TrashProps {
   trashType: string[];
   heading: string;

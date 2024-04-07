@@ -1,4 +1,3 @@
-import React from "react";
 const message = "Which section do I dispose my trash in?";
 export default function Header() {
   return (
